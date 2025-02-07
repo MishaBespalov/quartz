@@ -11,7 +11,7 @@ Welcome to my corner of the digital universe! I'm **Misha**—a curious technolo
 - **Personal Reflections:** Musings on innovation, creativity, and the future of technology.
 - **Project Spotlights:** Updates and insights into my personal projects and experiments.
 
-Ready to dive in? Check out my [latest posts](https://MishaBespalov.github.io/pages/Posts) and join me on this journey through the ever-evolving world of technology.
+Ready to dive in? Check out my [latest posts](https://MishaBespalov.github.io/pages/posts) and join me on this journey through the ever-evolving world of technology.
 
 ---
 
